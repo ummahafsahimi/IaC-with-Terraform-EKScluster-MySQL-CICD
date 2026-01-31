@@ -1,4 +1,6 @@
-## 🚀 Infrastructure as Code with Terraform — EKS Cluster + MySQL + CI/CD
+## 🚀 Infrastructure as Code with Terraform — EKS Cluster + MySQL + CI/CD 
+Please check this project in Gitlab here: ** https://gitlab.com/ummahimi-group/bootcamp-12-exercise-terraform-java-gradle-app **
+
 This project provisions a fully automated Amazon EKS Kubernetes cluster using Terraform, deploys a MySQL database via Helm with persistent storage, and integrates a Jenkins CI/CD pipeline for infrastructure changes.
 It supports multiple identical environments (dev, test, staging, prod) using reusable Terraform modules and remote state.
 
